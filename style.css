@@ -1,3 +1,4 @@
 html {
 	background: red; /* original in master */
+	padding: 20px /* padding added in branch */
 }
