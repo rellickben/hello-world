@@ -1,3 +1,4 @@
 html {
 	background: red; /* original in master */
+	border: 2px solid fuscia; /* design branch from cloned */
 }
